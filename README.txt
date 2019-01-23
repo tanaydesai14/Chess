@@ -1,7 +1,5 @@
 Name: Tanay Desai
 
-SCU ID: 00001282876
-
 JDK Used: openjdk ver3.sion "1.8.0_91"
 
 IDE Used: Eclipse 3.8.1
