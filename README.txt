@@ -24,3 +24,5 @@ The algorithm for the priority of the best move at each point is as below:
 (5) If the previous conditions still do not eliminate a tie, then from those moves, choose
     the piece that started most back from the player. (Furthest Down for White, Up for
     Black)
+
+I have used Comparator interface and Thread class to achieve the above.
