@@ -1,7 +1,7 @@
 
 Main File: P2.java
 
-Other instructions: All the image files  have to be imported into the source directory of the project.
+**All the image files  have to be imported into the source directory of the project**
 
 This application launches a playable chessboard allowing users to play two player chess. At every point of the game, users can view all the possible moves which can be made by each of the pieces and a hint for the best move possible at that point.
 
